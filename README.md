@@ -28,3 +28,12 @@ npm install --save-dev nodemon
 
 rodar o projeto com nodemon
 nodemon Noticia.js
+
+Intalar dependencia sequelize - biblioteca que facilita o gerenciamento do banco sql
+npm install --save sequelize
+
+intalar drive do banco de dados mysql 
+npm install --save mysql2
+
+
+
