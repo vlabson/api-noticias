@@ -11,3 +11,7 @@ npm init
 instalar express para gerenciar rotas e requisições 
 npm install express
 
+acessar projeto no navegardor 
+http://localhost:3333
+
+
