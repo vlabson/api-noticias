@@ -17,7 +17,7 @@ const Noticia = db.define("noticia", {
     }
 })
 
-// Noticia.sync()
+// quando nao existir a tabela esta funcao estara criando uma nova Noticia.sync()
 Noticia.sync({alter: true});
 
 module.exports = Noticia;
