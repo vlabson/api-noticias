@@ -1,6 +1,6 @@
 # api-noticias
 
-RODAR O PROJETO /n
+RODAR O PROJETO 
 intalar dependencias contidas no package.json
 npm install
 
