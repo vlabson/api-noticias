@@ -5,7 +5,7 @@ intalar dependencias contidas no package.json
 npm install
 
 rodar o projeto com nodemon
-nodemon Noticia.js
+nodemon index.js
 
 
 
@@ -17,7 +17,7 @@ instalar express para gerenciar rotas e requisições
 npm install express
 
 rodar o projeto 
-node Noticia.js
+node index.js
 
 acessar projeto no navegardor 
 http://localhost:3333
@@ -27,7 +27,7 @@ npm install -g nodemon
 npm install --save-dev nodemon
 
 rodar o projeto com nodemon
-nodemon Noticia.js
+nodemon index.js
 
 Intalar dependencia sequelize - biblioteca que facilita o gerenciamento do banco sql
 npm install --save sequelize
