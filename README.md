@@ -1,20 +1,15 @@
 # api-noticias
-Api desenvolvida em Node.js, Express, MySQL e Se .
+Api desenvolvida em Node.js, Express, MySQL e Sequelize.
 
 RODAR O PROJETO 
 intalar dependencias contidas no package.json
 npm install
 
-rodar o projeto com nodemon
+instalar a dependencia nodemon contida no script DEV no package.json 
 npm run dev
-
 
 ACESSAR PROJETO
 base url : http://localhost:3333
-
-LISTAR NOTICIAS (fazer uma requisição)
-
-GET http://localhost:3333/noticias
 
 CONTRUÇÃO DE BANCO E TABELA
 
@@ -38,6 +33,9 @@ TABELA: "noticia"
         allowNull: false
        }
 
+LISTAR NOTICIAS (fazer uma requisição)
+
+GET http://localhost:3333/noticias
 
 CADASTRAR NOTICIAS
 
