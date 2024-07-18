@@ -1,4 +1,5 @@
 # api-noticias
+Api desenvolvida em Node.js, Express, MySQL e Se .
 
 RODAR O PROJETO 
 intalar dependencias contidas no package.json
